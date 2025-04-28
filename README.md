@@ -20,3 +20,4 @@ A página possui:
 - Um cabeçalho fixo com logo e navegação.
 - Um destaque visual com uma frase de impacto.
 - Botões sociais com hover animado.
+- Em breve terá um design responsivo para melhor experiência em diferentes dispositivos.

@@ -1,19 +1,19 @@
 # Lading Page - Coca Cola
 
 
-## 🧃 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto é uma **landing page** da Coca-Cola, focada em apresentar a marca de forma moderna, atraente e responsiva.  
 Foi desenvolvido utilizando apenas **HTML5** e **CSS3**, buscando praticar conceitos de **layout moderno**.
 
-## 🌐 Tecnologias Utilizadas
+## Tecnologias Utilizadas 🌐
 
 - HTML5
 - CSS3
 - Google Fonts (Poppins)
 - Bootstrap Icons
 
-## 📸 Layout
+## Layout 📸
 
 A página possui:
 

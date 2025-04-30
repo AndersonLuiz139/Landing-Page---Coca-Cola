@@ -1,4 +1,4 @@
-# Lading Page - Coca Cola
+# Landing Page - Coca Cola
 
 
 ## Sobre o Projeto
